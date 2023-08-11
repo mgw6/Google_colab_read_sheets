@@ -1,5 +1,5 @@
 # Google Colab Read Sheets
-This is a simple example of how to read Google Sheets when using Google Colab and convert to a Pandas Dataframe
+These are two simple examples of how to read Google Sheets when using Google Colab and convert to a Pandas Dataframe
 
 References:
 - [Medium article](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fmedium.com%2Fmlearning-ai%2Fhow-to-access-google-sheets-on-google-colaboratory-8766b3a0996f&link_redirector=1)
